@@ -1,0 +1,7 @@
+put the following files into windows folder:
+
+hide_cmd_window2.vbs
+lock_mic_vol.bat
+nircmdc.exe
+
+run "start_lock_mic_vol.bat" from anywhere (you can put it into startup or make shortcut in startup)
